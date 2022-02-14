@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/ChooseMaze.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/ChooseMaze.h
 string
 -
 
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Game.cpp
+C:/Users/drigo/CLionProjects/mazeGame-Project/Game.cpp
 iostream
 -
 limits
@@ -28,37 +28,37 @@ cctype
 sstream
 -
 Game.h
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Game.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Game.h
 ChooseMaze.h
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/ChooseMaze.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/ChooseMaze.h
 
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Game.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Game.h
 string
 -
 vector
 -
 Maze.h
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Maze.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Maze.h
 Robot.h
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Robot.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Robot.h
 Player.h
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Player.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Player.h
 Gate.h
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Gate.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Gate.h
 
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Gate.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Gate.h
 
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Maze.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Maze.h
 vector
 -
 Post.h
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Post.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Post.h
 
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Player.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Player.h
 string
 -
 
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Post.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Post.h
 
-/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Robot.h
+C:/Users/drigo/CLionProjects/mazeGame-Project/Robot.h
 

@@ -8,16 +8,16 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/ChooseMaze.cpp" "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/cmake-build-debug/CMakeFiles/mazeGameProject.dir/ChooseMaze.cpp.o"
-  "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Game.cpp" "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Game.cpp.o"
-  "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Gate.cpp" "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Gate.cpp.o"
-  "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Maze.cpp" "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Maze.cpp.o"
-  "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Player.cpp" "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Player.cpp.o"
-  "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Post.cpp" "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Post.cpp.o"
-  "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/Robot.cpp" "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Robot.cpp.o"
-  "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/main.cpp" "/Users/viniciuscorrea/Desktop/university/AED/Exams/mazeGameProject/cmake-build-debug/CMakeFiles/mazeGameProject.dir/main.cpp.o"
+  "C:/Users/drigo/CLionProjects/mazeGame-Project/ChooseMaze.cpp" "C:/Users/drigo/CLionProjects/mazeGame-Project/cmake-build-debug/CMakeFiles/mazeGameProject.dir/ChooseMaze.cpp.obj"
+  "C:/Users/drigo/CLionProjects/mazeGame-Project/Game.cpp" "C:/Users/drigo/CLionProjects/mazeGame-Project/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Game.cpp.obj"
+  "C:/Users/drigo/CLionProjects/mazeGame-Project/Gate.cpp" "C:/Users/drigo/CLionProjects/mazeGame-Project/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Gate.cpp.obj"
+  "C:/Users/drigo/CLionProjects/mazeGame-Project/Maze.cpp" "C:/Users/drigo/CLionProjects/mazeGame-Project/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Maze.cpp.obj"
+  "C:/Users/drigo/CLionProjects/mazeGame-Project/Player.cpp" "C:/Users/drigo/CLionProjects/mazeGame-Project/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Player.cpp.obj"
+  "C:/Users/drigo/CLionProjects/mazeGame-Project/Post.cpp" "C:/Users/drigo/CLionProjects/mazeGame-Project/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Post.cpp.obj"
+  "C:/Users/drigo/CLionProjects/mazeGame-Project/Robot.cpp" "C:/Users/drigo/CLionProjects/mazeGame-Project/cmake-build-debug/CMakeFiles/mazeGameProject.dir/Robot.cpp.obj"
+  "C:/Users/drigo/CLionProjects/mazeGame-Project/main.cpp" "C:/Users/drigo/CLionProjects/mazeGame-Project/cmake-build-debug/CMakeFiles/mazeGameProject.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

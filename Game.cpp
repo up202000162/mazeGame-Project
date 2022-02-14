@@ -437,7 +437,7 @@ Uint Game::rules() {
 
     ifstream rulesStream;
     string line;
-    rulesStream.open("RULES.TXT");
+    rulesStream.open("RULES.txt");
     while (!rulesStream.eof())
     {
         getline(rulesStream, line);
