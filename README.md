@@ -8,7 +8,7 @@
 * Project grade: 18.1/20.0
 * Group members: 
   * Vinícius Macedo Corrêa (vinimcorrea@hotmail.com)
-  * Igor Rodrigues Diniz 
+  * Igor Rodrigues Diniz (igordiniz.eu@gmail.com)
  
 # Program Development State:
 * We were able to achieve all the objectives of the program and some improvements. 
